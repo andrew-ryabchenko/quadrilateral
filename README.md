@@ -25,5 +25,5 @@ Input is provided in the text file in the form
 10 5 25
 
 
-where each line consist of the quotients of the equation of the line in standard form. Each group of four lines 
-defines bounds a shape. 
+where each line contains quotients of the equation of the line in standard form. Each group of four lines 
+bounds a shape. 
